@@ -1,4 +1,4 @@
-# Updating the README.md file with the improved content
+README.md 
 
 readme_content = 💎 Diamond Price Predictor
 
