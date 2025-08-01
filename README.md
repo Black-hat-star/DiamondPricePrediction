@@ -49,8 +49,8 @@ Step 4: Running the model for predictions
 python application.py
 
 
-📁 Directory Structure
-.
+📁 Directory Structure:
+
 ├── application.py
 ├── setup.py
 ├── requirements.txt
